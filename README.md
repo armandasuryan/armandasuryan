@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a subsidiary of a state-owned company**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, golang, and IoT**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -22,7 +22,7 @@
   <a href="armanda.surya97@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/armanda-surya-ningrat-711654128/">
+  <a href="www.linkedin.com/in/armanda-surya-ningrat-711654128" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
